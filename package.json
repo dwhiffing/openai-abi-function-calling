@@ -1,0 +1,21 @@
+{
+  "name": "magic-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  },
+  "author": "Daniel Whiffing",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.2.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.55.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "abitype": "^1.0.6"
+  }
+}
